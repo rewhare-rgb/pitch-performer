@@ -6,7 +6,7 @@ This project is a part of The Odin Project's curriculum, creating a landing page
 
 ## View Project
 
-Visit the [PitchPerformer Landing Page](https://rewhare-rgb.github.io/index.html/) to see the live project.
+Visit the [PitchPerformer](https://rewhare-rgb.github.io/index.html) to improve your skills as a footballer!!!.
 
 ## Contributing
 
